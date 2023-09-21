@@ -88,11 +88,9 @@
   <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=PragatiS11&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Pragati Shrivas" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PragatiS11&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Pragati Shrivas" /></td>
+<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PragatiS11&theme=dark" alt="Pragati Shrivas" /></td>
   </tr>
   </div>
  
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PragatiS11&theme=dark" alt="Pragati Shrivas" /></p>
-  </div>
 </div>
   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
