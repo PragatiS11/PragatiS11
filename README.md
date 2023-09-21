@@ -23,14 +23,14 @@
   <br><br>
  💬 Ask me about **HTML, CSS, JavaScript, React, Redux , TypeScript ,Node.js**
   <br><br>
- ⚡ How to reach me pragatishrivas@gmail.com
+ ⚡ How to reach me pragatishrivas2000@gmail.com
   
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
   
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
  <a  href="https://www.linkedin.com/in/pragati-shrivas-a0759a218/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pragatishrivas@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:pragatishrivas2000@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
