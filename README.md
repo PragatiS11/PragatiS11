@@ -17,9 +17,7 @@
   <br><br>
  🤔 Check Out my <a href="">Resume</a>
   <br><br>
- 👨‍💻  Know more about me <a href ="[https://PragatiS11.github.io/](https://PragatiS11.github.io)">Portfolio</a>
-  <br><br>
-  All my projects are available at my [Portfolio](https://PragatiS11.github.io/)
+ 👨‍💻  Know more about me [Portfolio](https://PragatiS11.github.io/)
   <br><br>
  😄 All of my projects are available at <a href="https://github.com/PragatiS11">My Github Repositories</a>
   <br><br>
